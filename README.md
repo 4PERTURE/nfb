@@ -2,7 +2,7 @@
     <img src="resources/icon_rounded.png" alt="Twitter Bird Icon" width="130" height="130">
 
 
-  # NeoFreeBird
+  # NeoFreeBird.
   <i>The ultimate way to tweak your Twitter/X experience.</i>
   Open the NeoFreeBird settings by holding the Twitter/X icon at the top of the main feed. See [Opening the settings](#opening-the-settings).
 
